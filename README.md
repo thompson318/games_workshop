@@ -2,7 +2,12 @@
 
 ## Background 
 ARC (and ARC staff) have a track record of delivering games for research, engagement, and 
-healthcare, see [Examples]
+healthcare, see [Examples](#examples).
+The aim here is to develop a workshop targeted at researchers (PhD, postdoc, etc) to create ideas 
+for new games and to create new collaborations. 
+
+## Plan
+Ask around, create a survey to find out if there is an existing demand for this.
 
 ## Examples 
 
