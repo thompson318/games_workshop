@@ -2,7 +2,10 @@
 
 ## Background 
 ARC (and ARC staff) have a track record of delivering games for research, engagement, and 
-healthcare, examples include:
+healthcare, see [Examples]
+
+## Examples 
+
   - [aligne-d](https://sam-labucl.github.io/Aligne-d_v1.1_online/)
   - [AstroBalance](https://github.com/UCL/AstroBalance)
   - [SnappySonic](https://openresearchsoftware.metajnl.com/articles/10.5334/jors.289)
